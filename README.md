@@ -1,3 +1,4 @@
 # Group5INFO340
 
-Edlyn Hsueh
+Group Members:
+Edlyn Hsueh, Alexia Chan
