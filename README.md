@@ -1,7 +1,5 @@
 # Group5 INFO340
 
-# Project: Topic Proposal
-
 Group Members:
 Edlyn Hsueh, Alexia Chan, Raizel Lagunero, Teresa Wang
 
