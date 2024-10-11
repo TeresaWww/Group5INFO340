@@ -13,6 +13,7 @@ div {
 img {
     max-height: 600px;
     margin-left: 30px;
+    margin-top: 150px;
 }
 body{
     background-color: rgb(197, 220, 184);
