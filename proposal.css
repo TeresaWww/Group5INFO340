@@ -14,3 +14,21 @@ img {
     max-height: 600px;
     margin-left: 30px;
 }
+body{
+    background-color: rgb(197, 220, 184);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h1, h2{
+    color:mediumseagreen;
+}
+.container{
+    background-color:beige;
+    margin: auto;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    border: 2px solid darkolivegreen;
+}
